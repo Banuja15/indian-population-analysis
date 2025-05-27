@@ -12,8 +12,9 @@ Project Overview
 
 Files Included
 
-Indian_Population_Analysis.xlsx :Contains raw data, statistical calculations, and visualizations for demographic analysis.
-Indian_Population_Analysis_Interpretation.xlsx :Provides a structured interpretation and summary of insights derived from the analysis, focusing on population trends and conclusions.
+Indian_Population_Analysis.xlsx : Contains raw data, statistical calculations, and visualizations for demographic analysis.
+
+Indian_Population_Analysis_Interpretation.xlsx : Provides a structured interpretation and summary of insights derived from the analysis, focusing on population trends and conclusions.
 
 Key Learnings
 
