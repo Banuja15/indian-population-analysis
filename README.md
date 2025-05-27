@@ -5,9 +5,13 @@ This project involves analyzing Indian population data using Microsoft Excel to 
 Project Overview
 
 > Tools Used: Microsoft Excel
+
 > Techniques Applied:
+
 > Measures of Central Tendency: Mean, Median, Mode
+
 > Data Visualization: Bar Charts, Pie Charts
+
 > Data Interpretation and Insight Extraction
 
 Files Included
@@ -18,9 +22,11 @@ Indian_Population_Analysis_Interpretation.xlsx : Provides a structured interpret
 
 Key Learnings
 
->Practical application of statistics using Excel
->Visual storytelling through graphs and charts
->Interpreting real-world datasets for meaningful insights
+> Practical application of statistics using Excel
+
+> Visual storytelling through graphs and charts
+
+> Interpreting real-world datasets for meaningful insights
 
 License
 This project is released under the MIT License. See the LICENSE file for more information.
